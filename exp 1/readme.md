@@ -16,9 +16,13 @@ Using skip model from the DIP repo by author
 
 
 Increasing lr= 0.1 decreased PSNR = 18.6
+\
 Decreasing lr=0.006 increased PSNR = 19.6
+\
 Decreasing lr=0.003 increased PSNR = 19.7
+\
 Decreasing lr=0.001 increased PSNR = 19.9
+\
 With tanh getting PSNR = 19.5
 
 No 2: same model from skip but more readable from - link
